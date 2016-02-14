@@ -1,0 +1,11 @@
+/* typography.scss */
+.container {
+    h1, h2, h3, h4, h5, h6 {
+      color: #313131;
+      text-rendering: optimizeLegibility;
+    }
+}
+.navbar-default .navbar-brand {
+    color: #313131;
+    text-rendering: optimizeLegibility;
+}
