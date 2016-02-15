@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Dreaming Tree and The Stone for Front Ensemble
+permalink: /dave-matthews-glassmen/
 fitvids: true
 navbar: music
 ---

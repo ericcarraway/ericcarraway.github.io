@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Double-Latte for Front Ensemble
+permalink: /double-latte/
 fitvids: true
 navbar: music
 ---
