@@ -1,0 +1,43 @@
+ARRANGEMENTS
+
+Frou Frou - Let Go
+https://www.youtube.com/watch?v=POQTj_0n1So
+https://www.youtube.com/watch?v=jj4roqr0Zok
+
+Front Ensemble Exercises Based on Pop Tunes and Jazz Standards
+* Blue Ocean Floor
+* Blue in Green
+* Naima
+
+Jazz Standards as Technical Etudes
+* Double Stops - Giant Steps (Coltrane)
+* Block Chords - Naima (Coltrane)
+* Single Alternating - Blue in Green (Davis/Evans)
+
+VISUALIZATION
+* Donna Lee
+* Naima
+* Texas All State Etudes
+* Giant Steps
+* Bobby Hutcherson - Maiden Voyage
+
+KEYBOARD PERCUSSION
+  Chord Shapes
+
+SOUNDCLOUD
+   Rolling Stones - Beast of Burden
+   Incubus - Drive
+   iPhone Remix
+
+===
+
+BRUME EXAMPLES
+http://nitsanbaleli.github.io/
+http://aigarsdz.github.io/brume/demo-post/
+
+===
+
+TIDY HTML5 FORMATTER
+http://www.htacg.org/tidy-html5/
+
+brew install tidy-html5
