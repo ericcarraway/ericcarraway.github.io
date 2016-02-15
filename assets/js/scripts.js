@@ -12,7 +12,7 @@ $(document).ready(function () {
         'home',
         'about',
         'music',
-        'development',
+        'code',
         'miscellany',
         'contact'
     ];
