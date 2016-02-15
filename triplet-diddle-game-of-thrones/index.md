@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Triplet Diddle vs. Game of Thrones
+permalink: /triplet-diddle-game-of-thrones/
 fitvids: true
 navbar: music
 ---
