@@ -13,8 +13,7 @@ $(document).ready(function () {
         'about',
         'music',
         'code',
-        'miscellany',
-        'contact'
+        'miscellany'
     ];
     if (knownPaths.indexOf(navClass) > -1) {
         $('li.nav-' + navClass).addClass('active');
