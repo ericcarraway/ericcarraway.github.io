@@ -3,4 +3,18 @@
         integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
         crossorigin="anonymous"></script>
 
+<!-- performance: only inject FitVids.js if needed -->
+{% if page.fitvids == true %}
+    <!-- jQuery plugin for fluid-width video embeds -->
+    <script src="../assets/js/vendor/jquery.fitvids.min.js"></script>
+
+    <!-- initialize FitVids.js on the container element -->
+    <script>$(document).ready(function(){$('div.container').fitVids();});</script>
+{% endif %}
+
 <script src="../assets/js/scripts.js"></script>
+
+<!-- set an active class in the navbar -->
+{% if page.navbar == 'music' %}
+    <script>$('li.nav-' + 'music').addClass('active');</script>
+{% endif %}
