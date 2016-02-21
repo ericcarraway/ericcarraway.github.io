@@ -67,6 +67,6 @@ Thanks to <a href="https://github.com/ephetic">Brian Cleary</a> for his input an
 for this project.
 
 <a href="http://codingbat.com/">CodingBat</a> and its materials are copyright
-<a href="http://cs.stanford.edu/people/nick/">Nick Parlante</a>.
+<a href="http://cs.stanford.edu/people/nick/">Nick&nbsp;Parlante</a>.
 
 <br>
