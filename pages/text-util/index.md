@@ -11,8 +11,15 @@ permalink: /text-util/
     <button
         type="button"
         id="list-unique-words"
-        onclick="listUniqueWords()">
+        onclick="app.uniqueWords()">
         list unique words
+    </button>
+
+    <button
+        type="button"
+        id="list-unique-words"
+        onclick="app.filterCommonProse()">
+        filter common prose
     </button>
 
     <br>
@@ -28,4 +35,6 @@ permalink: /text-util/
     <a href="../">ericcarraway.com</a>
 </div>  <!-- /.container -->
 
+<script src="../assets/text-util/word-lists/prose/deekayen.js"></script>
+<script src="../assets/text-util/word-lists/prose/splasho.js"></script>
 <script src="../assets/text-util/textUtil.js"></script>
