@@ -40,3 +40,5 @@ permalink: /text-util/
 <script src="../assets/text-util/word-lists/prose/aspell.js"></script>
 
 <script src="../assets/text-util/textUtil.js"></script>
+<script src="../assets/text-util/domManip.js"></script>
+<script src="../assets/text-util/app.js"></script>
