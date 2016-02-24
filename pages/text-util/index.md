@@ -37,4 +37,6 @@ permalink: /text-util/
 
 <script src="../assets/text-util/word-lists/prose/deekayen.js"></script>
 <script src="../assets/text-util/word-lists/prose/splasho.js"></script>
+<script src="../assets/text-util/word-lists/prose/aspell.js"></script>
+
 <script src="../assets/text-util/textUtil.js"></script>
