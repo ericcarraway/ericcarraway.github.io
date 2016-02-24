@@ -8,3 +8,4 @@ permalink: /code/
 ### Projects
 
 * [CodingBat Problems in JavaScript](../codingbat-js/)
+* [Text-Util](../text-util/)

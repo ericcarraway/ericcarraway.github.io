@@ -33,6 +33,8 @@ permalink: /text-util/
     <br>
 
     <a href="../">ericcarraway.com</a>
+    |
+    <a href="https://github.com/ericcarraway/ericcarraway.github.io">view on GitHub</a>
 </div>  <!-- /.container -->
 
 <script src="../assets/text-util/word-lists/prose/deekayen.js"></script>
