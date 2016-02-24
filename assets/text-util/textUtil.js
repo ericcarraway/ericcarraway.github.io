@@ -1,4 +1,4 @@
-var textUtil = {};
+var textUtil = textUtil || {};
 
 textUtil.uniqueWords = function (str) {
     // remove line breaks
@@ -52,28 +52,4 @@ textUtil.filterCommonProse= function (str) {
     }
 
     return returnArr.sort().join('\n');
-};
-
-var domManip = {};
-
-domManip.getTextarea = function () {
-    return document.getElementsByName('textarea')[0].value;
-};
-
-domManip.setTextarea = function (str) {
-    document.getElementsByName('textarea')[0].value = str;
-};
-
-var app = {};
-
-app.uniqueWords = function () {
-    var words = domManip.getTextarea();
-    words = textUtil.uniqueWords(words);
-    domManip.setTextarea(words);
-};
-
-app.filterCommonProse= function () {
-    var words = domManip.getTextarea();
-    words = textUtil.filterCommonProse(words);
-    domManip.setTextarea(words);
 };
