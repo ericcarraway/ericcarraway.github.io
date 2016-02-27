@@ -1,8 +1,10 @@
+var wordlists = wordlists || {};
+
 // words from http://splasho.com/upgoer5/
 // that are not already in deekayen.js
 // not including contractions
 
-var splasho = [
+wordlists.splasho = [
     'accept',
     'across',
     'actually',

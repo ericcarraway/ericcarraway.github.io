@@ -39,7 +39,10 @@ textUtil.filterCommonProse= function (str) {
 
     // bring together word lists
     // currently 4,179 unique words
-    var prose = [].concat(deekayen, splasho, aspell);
+    var prose = [].concat(
+        wordlists.deekayen,
+        wordlists.plasho,
+        wordlists.aspell);
 
     var returnArr = [];
 
