@@ -5,3 +5,4 @@
 
 2016-02-27
 * `motto.js` - 1,792 additional words characteristic of a dev blog
+* `alice.js` - 951 more words from the Utah teapot of computational linguistics
