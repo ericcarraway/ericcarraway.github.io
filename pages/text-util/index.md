@@ -10,14 +10,13 @@ permalink: /text-util/
 
     <button
         type="button"
-        id="list-unique-words"
         onclick="app.uniqueWords()">
         list unique words
     </button>
 
+    <!-- deekayen, splasho, aspell -->
     <button
         type="button"
-        id="list-unique-words"
         onclick="app.filterCommonProse()">
         filter common prose
     </button>
@@ -32,6 +31,14 @@ permalink: /text-util/
 
     <br>
 
+    <div class="bottom-buttons">
+        <button
+            type="button"
+            onclick="app.filterTmProse()">
+            TM
+        </button>
+    </div>
+
     <a href="../">ericcarraway.com</a>
     |
     <a href="https://github.com/ericcarraway/ericcarraway.github.io">view on GitHub</a>
@@ -40,6 +47,7 @@ permalink: /text-util/
 <script src="../assets/text-util/word-lists/prose/deekayen.js"></script>
 <script src="../assets/text-util/word-lists/prose/splasho.js"></script>
 <script src="../assets/text-util/word-lists/prose/aspell.js"></script>
+<script src="../assets/text-util/word-lists/prose/motto.js"></script>
 
 <script src="../assets/text-util/textUtil.js"></script>
 <script src="../assets/text-util/domManip.js"></script>

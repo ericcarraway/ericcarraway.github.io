@@ -25,7 +25,7 @@ textUtil.uniqueWords = function (str) {
     return returnArr.sort().join('\n');
 };
 
-textUtil.filterCommonProse= function (str) {
+textUtil.filterCommonProse = function (str) {
     // remove line breaks
     str = str.replace(/(\r\n|\n|\r)/gm, ' ');
 
@@ -41,8 +41,9 @@ textUtil.filterCommonProse= function (str) {
     // currently 4,179 unique words
     var prose = [].concat(
         wordlists.deekayen,
-        wordlists.plasho,
-        wordlists.aspell);
+        wordlists.splasho,
+        wordlists.aspell
+    );
 
     var returnArr = [];
 
@@ -50,6 +51,31 @@ textUtil.filterCommonProse= function (str) {
         // if the word in question does not exist in the array,
         // add it to the array
         if (prose.indexOf(arr[i]) === -1) {
+            returnArr.push(arr[i]);
+        }
+    }
+
+    return returnArr.sort().join('\n');
+};
+
+textUtil.filterTmProse = function (str) {
+    // remove line breaks
+    str = str.replace(/(\r\n|\n|\r)/gm, ' ');
+
+    // split words
+    var arr = str.split(' ');
+
+    // trim words
+    for (var word = 0; word < arr.length; word++) {
+        arr[word] = arr[word].trim();
+    }
+
+    var returnArr = [];
+
+    for (var i = 0; i < arr.length; i++) {
+        // if the word in question does not exist in the array,
+        // add it to the array
+        if (wordlists.motto.indexOf(arr[i]) === -1) {
             returnArr.push(arr[i]);
         }
     }
