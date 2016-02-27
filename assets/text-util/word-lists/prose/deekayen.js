@@ -1,7 +1,9 @@
+var wordlists = wordlists || {};
+
 // based on David Norman's top 1,000 words
 // https://gist.github.com/deekayen/4148741
 
-var deekayen = [
+wordlists.deekayen = [
     'the',
     'of',
     'to',
