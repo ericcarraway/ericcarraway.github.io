@@ -37,6 +37,12 @@ permalink: /text-util/
             onclick="app.filterTmProse()">
             TM
         </button>
+
+        <button
+            type="button"
+            onclick="app.filterAlice()">
+            Alice
+        </button>
     </div>
 
     <a href="../">ericcarraway.com</a>
@@ -48,6 +54,7 @@ permalink: /text-util/
 <script src="../assets/text-util/word-lists/prose/splasho.js"></script>
 <script src="../assets/text-util/word-lists/prose/aspell.js"></script>
 <script src="../assets/text-util/word-lists/prose/motto.js"></script>
+<script src="../assets/text-util/word-lists/prose/alice.js"></script>
 
 <script src="../assets/text-util/textUtil.js"></script>
 <script src="../assets/text-util/domManip.js"></script>
