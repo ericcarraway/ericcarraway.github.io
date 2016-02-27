@@ -1,6 +1,6 @@
 var wordlists = wordlists || {};
 
-// roughly 2,859 of the most-common English words from GNU Aspell
+// 2,859 of the most-common English words from GNU Aspell
 // that are not already in deekayen.js or splasho.js
 // only includes word of length 4+
 

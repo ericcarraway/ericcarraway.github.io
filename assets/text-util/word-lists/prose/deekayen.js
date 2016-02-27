@@ -1,5 +1,6 @@
 var wordlists = wordlists || {};
 
+// 997 very common words
 // based on David Norman's top 1,000 words
 // https://gist.github.com/deekayen/4148741
 

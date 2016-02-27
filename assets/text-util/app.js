@@ -11,3 +11,9 @@ app.filterCommonProse= function () {
     words = textUtil.filterCommonProse(words);
     domManip.setTextarea(words);
 };
+
+app.filterTmProse= function () {
+    var words = domManip.getTextarea();
+    words = textUtil.filterTmProse(words);
+    domManip.setTextarea(words);
+};

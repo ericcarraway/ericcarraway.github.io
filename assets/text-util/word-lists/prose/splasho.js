@@ -1,6 +1,6 @@
 var wordlists = wordlists || {};
 
-// words from http://splasho.com/upgoer5/
+// 323 very common words from http://splasho.com/upgoer5/
 // that are not already in deekayen.js
 // not including contractions
 
