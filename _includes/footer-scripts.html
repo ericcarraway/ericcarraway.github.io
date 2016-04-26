@@ -15,8 +15,21 @@
 <script src="../assets/js/scripts.js"></script>
 
 <!-- set an active class in the navbar -->
+<!-- #TODO: quick hack; DRY this up -->
+{% if page.navbar == 'home' %}
+    <script>$('li.nav-' + 'home').addClass('active');</script>
+{% endif %}
+{% if page.navbar == 'about' %}
+    <script>$('li.nav-' + 'about').addClass('active');</script>
+{% endif %}
 {% if page.navbar == 'music' %}
     <script>$('li.nav-' + 'music').addClass('active');</script>
+{% endif %}
+{% if page.navbar == 'code' %}
+    <script>$('li.nav-' + 'code').addClass('active');</script>
+{% endif %}
+{% if page.navbar == 'talks' %}
+    <script>$('li.nav-' + 'talks').addClass('active');</script>
 {% endif %}
 {% if page.navbar == 'miscellany' %}
     <script>$('li.nav-' + 'miscellany').addClass('active');</script>
