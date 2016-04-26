@@ -2,6 +2,7 @@
 layout: default
 title: CodingBat
 permalink: /codingbat-js/
+navbar: code
 ---
 <!-- #TODO: move CSS -->
 <!-- #TODO: target line length: 45 to 75 characters (ideally 66) -->

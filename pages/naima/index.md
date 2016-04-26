@@ -19,11 +19,6 @@ p {
     font-size: 18px;
     letter-spacing: 0.2px;
 }
-li {
-    font-size: 18px;
-    letter-spacing: 0.2px;
-    margin-bottom: 5px;
-}
 a {
     color: #268bd2;
     text-decoration: none;
