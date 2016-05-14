@@ -1,0 +1,20 @@
+/* adapted from: https://fonts.googleapis.com/css?family=News+Cycle:400,700 */
+
+/* News Cycle Font by Nathan Willis, see SIL Open Font License.txt */
+@font-face {
+  font-family: 'News Cycle';
+  font-style: normal;
+  font-weight: 400;
+  src: local('News Cycle'), local('NewsCycle'), url('./news-cycle/NewsCycle-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'News Cycle';
+  font-style: normal;
+  font-weight: 700;
+  src: local('News Cycle Bold'), local('NewsCycle-Bold'), url('./news-cycle/NewsCycle-Bold.ttf');
+}
+
+/* #TODO: 2016-05-14 Does bootswatch-journal only use NewsCycle-Bold? If so, optimize. */
+/* #TODO: 2016-05-14 Convert TTF to WOFF */
+/* #TODO: 2016-05-14 Don't use @import http://codeguide.co/#css-import (Mark Otto's Code Guide)

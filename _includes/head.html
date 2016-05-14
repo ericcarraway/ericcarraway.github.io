@@ -10,10 +10,15 @@
 
     <title>Eric Carraway</title>
 
+    {% if site.data.environment.is_local %}
+    <link rel="stylesheet" href="../assets/css/vendor/bootswatch-journal/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/vendor/font-awesome.min.css">
+    {% else %}
     <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.6/journal/bootstrap.min.css">
-    <link rel="stylesheet"
-          href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    {% endif %}
 </head>

@@ -1,0 +1,10 @@
+# set this flag to `true` to load local versions of dendencies
+is_local: false
+
+# example usage:
+
+# {% if site.data.environment.is_local %}
+#   <link rel="stylesheet" href="../path/to/bootstrap.min.css">
+# {% else %}
+#   <link rel="stylesheet" href="https://example-cdn.com/path/to/bootstrap.min.css">
+# {% endif %}
