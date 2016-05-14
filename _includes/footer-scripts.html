@@ -1,7 +1,12 @@
+{% if site.data.environment.is_local %}
+<script src="../assets/js/vendor/jquery.min.js"></script>
+<script src="../assets/js/vendor/bootstrap.min.js"></script>
+{% else %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
         integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
         crossorigin="anonymous"></script>
+{% endif %}
 
 <!-- performance: only inject FitVids.js if needed -->
 {% if page.fitvids == true %}
@@ -16,21 +21,17 @@
 
 <!-- set an active class in the navbar -->
 <!-- #TODO: quick hack; DRY this up -->
-{% if page.navbar == 'home' %}
+{% case page.navbar %}
+  {% when 'home' %}
     <script>$('li.nav-' + 'home').addClass('active');</script>
-{% endif %}
-{% if page.navbar == 'about' %}
+  {% when 'about' %}
     <script>$('li.nav-' + 'about').addClass('active');</script>
-{% endif %}
-{% if page.navbar == 'music' %}
+  {% when 'music' %}
     <script>$('li.nav-' + 'music').addClass('active');</script>
-{% endif %}
-{% if page.navbar == 'code' %}
+  {% when 'code' %}
     <script>$('li.nav-' + 'code').addClass('active');</script>
-{% endif %}
-{% if page.navbar == 'talks' %}
+  {% when 'talks' %}
     <script>$('li.nav-' + 'talks').addClass('active');</script>
-{% endif %}
-{% if page.navbar == 'miscellany' %}
+  {% when 'miscellany' %}
     <script>$('li.nav-' + 'miscellany').addClass('active');</script>
-{% endif %}
+{% endcase %}
