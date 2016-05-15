@@ -45,9 +45,9 @@ a {
 
 <hr>
 
-### The San Antonio Web Development Group
+### Pair-Programming at Rackspace
 
-#### Pair-Programming at Rackspace
+#### The San Antonio Web Development Group
 
 <span class="date">January 19, 2016</span>
 <br>
@@ -67,9 +67,9 @@ Eric Carraway & Kayden Althen from Rackspace will be speaking on Pair&nbsp;Progr
 </a>
 <hr>
 
-### San Antonio .NET User Group
+### First-hand Experience from a .NET Boot Camp Graduate
 
-#### First-hand Experience from a .NET Boot Camp Graduate
+#### San Antonio .NET User Group
 
 <span class="date">October 14, 2014</span>
 <br>
