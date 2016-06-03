@@ -12,12 +12,20 @@ div.miscellany-page a {
     letter-spacing: 0.05rem;
     line-height: 3.4rem;
 }
+h2 {
+    margin-bottom: 40px;
+}
 </style>
 
 <div class="miscellany-page">
 <h2>Miscellany</h2>
 
+<a href="../assets/resume.pdf">
+    - Résumé
+</a>
+<br>
+<br>
 <a href="../old-fashioned-recipe/">
-    Old Fashioned Cocktail Recipe
+    - Old Fashioned Cocktail Recipe
 </a>
 </div>
