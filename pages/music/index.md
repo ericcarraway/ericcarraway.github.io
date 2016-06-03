@@ -40,3 +40,15 @@ ul.music-list {
     </ul>
   </li>
 </ul>
+
+<br>
+
+<h3>Jazz Vibraphone</h3>
+
+<ul class="music-list">
+  <li>
+    <a href="../bobby-hutcherson-maiden-voyage/">
+      Bobby Hutcherson Solo Transcription: Maiden&nbsp;Voyage
+    </a>
+  </li>
+</ul>
