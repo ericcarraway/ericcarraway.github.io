@@ -4,33 +4,8 @@ title: Old Fashioned Recipe
 permalink: /old-fashioned-recipe/
 fitvids: false
 navbar: miscellany
+container_class: old-fashioned
 ---
-<style>
-div.container {
-    max-width: 680px;
-}
-h1 {
-    text-align: center;
-    margin-bottom: 30px;
-}
-h3 {
-    text-align: left;
-}
-p, li {
-    font-size: 2.2rem;
-    letter-spacing: 0.05rem;
-    line-height: 3.1rem;
-}
-a {
-    color: #50bbf7;
-    text-decoration: none;
-}
-img {
-    margin-top: 28px;
-    margin-bottom: 42px;
-}
-</style>
-
 # Old Fashioned Cocktail Recipe
 
 ![old-fashioned-recipe](../assets/old-fashioned/message.png)

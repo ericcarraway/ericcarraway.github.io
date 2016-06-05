@@ -1,1 +1,24 @@
 /* build: pages/music/bobby-hutcherson-maiden-voyage/index.scss */
+div.bobby-hutcherson {
+    div.lead {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+    h3 {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    div.center {
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+    }
+}

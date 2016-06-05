@@ -4,33 +4,8 @@ title: Bobby Hutcherson Solo Transcription
 permalink: /bobby-hutcherson-maiden-voyage/
 fitvids: true
 navbar: music
+container_class: bobby-hutcherson
 ---
-<!-- #TODO: move to an external stylesheet -->
-<style>
-div.lead {
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 680px;
-    text-align: center;
-}
-h2 {
-    text-align: center;
-}
-h3 {
-    text-align: center;
-    margin-bottom: 40px;
-}
-p {
-    font-size: 20px;
-    line-height: 30px;
-}
-div.center {
-    font-size: 20px;
-    line-height: 30px;
-    text-align: center;
-}
-</style>
-
 ## Bobby Hutcherson Solo Transcription: Maiden&nbsp;Voyage
 <div class="lead">
     <p>

@@ -2,17 +2,8 @@
 layout: default
 title: About
 permalink: /about/
+container_class: about-page
 ---
-<!-- #TODO: => external stylesheet -->
-<style>
-img {
-    width: 120px;
-    text-align: left;
-    float: left;
-    margin-right: 15px;
-    margin-bottom: 15px;
-}
-</style>
 ## About
 
 ![Eric Carraway](../assets/img/headshots/eric-carraway-2015-510.jpg)

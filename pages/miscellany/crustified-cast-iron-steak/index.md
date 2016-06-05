@@ -4,28 +4,8 @@ title: Crustified Cast Iron Steak
 permalink: /crustified-cast-iron-steak/
 fitvids: false
 navbar: miscellany
+container_class: steak-recipe
 ---
-<style>
-div.container {
-    max-width: 680px;
-}
-h1 {
-    text-align: center;
-    margin-bottom: 30px;
-}
-p {
-    text-align: center;
-}
-img {
-    margin-top: 28px;
-}
-p, li {
-    font-size: 2.2rem;
-    letter-spacing: 0.05rem;
-    line-height: 3.1rem;
-}
-</style>
-
 # Crustified Cast&nbsp;Iron&nbsp;Steak
 
 _Forget the grill - prepare the perfect steak by searing it on a cast iron skillet

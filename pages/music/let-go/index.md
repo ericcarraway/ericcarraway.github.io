@@ -4,26 +4,8 @@ title: Let Go for Front Ensemble
 permalink: /let-go/
 fitvids: true
 navbar: music
+container_class: let-go
 ---
-<!-- #TODO: move to an external stylesheet -->
-<style>
-div.lead {
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 680px;
-}
-h2, h3 {
-    text-align: center;
-}
-p {
-    font-size: 20px;
-    line-height: 30px;
-}
-div.members {
-    text-align: center;
-}
-</style>
-
 ## Let Go for Front&nbsp;Ensemble
 <div class="lead">
     <p>

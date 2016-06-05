@@ -4,17 +4,8 @@ title: The Dreaming Tree and The Stone for Front Ensemble
 permalink: /dave-matthews-glassmen/
 fitvids: true
 navbar: music
+container_class: dmb-glassmen
 ---
-<!-- #TODO: move to an external stylesheet -->
-<style>
-h2, h3, p {
-    text-align: center;
-}
-div.members {
-    text-align: center;
-}
-</style>
-
 ## The Dreaming Tree & The&nbsp;Stone for Front&nbsp;Ensemble
 My arrangement of two tracks from Dave Matthews Band's 1998 album
 _Before These Crowded&nbsp;Streets_.

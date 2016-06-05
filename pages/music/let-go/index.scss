@@ -1,1 +1,17 @@
 /* build: pages/music/let-go/index.scss */
+div.let-go {
+    div.lead {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    h2, h3 {
+        text-align: center;
+    }
+    p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    div.members {
+        text-align: center;
+    }
+}
