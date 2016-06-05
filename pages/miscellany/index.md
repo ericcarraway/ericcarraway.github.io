@@ -25,7 +25,11 @@ h2 {
 </a>
 <br>
 <br>
+<h3>Recipes</h3>
+<a href="../crustified-cast-iron-steak/">
+    - Crustified Cast Iron Steak<br/>
+</a>
 <a href="../old-fashioned-recipe/">
-    - Old Fashioned Cocktail Recipe
+    - Old Fashioned Cocktail Recipe<br/>
 </a>
 </div>
