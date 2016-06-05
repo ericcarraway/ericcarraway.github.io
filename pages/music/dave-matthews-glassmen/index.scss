@@ -1,1 +1,13 @@
 /* build: pages/music/dave-matthews-glassmen/index.scss */
+div.dmb-glassmen {
+    h2, h3, p {
+        text-align: center;
+    }
+    div.members {
+        text-align: center;
+    }
+    ul, p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}

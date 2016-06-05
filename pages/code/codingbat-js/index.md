@@ -3,26 +3,9 @@ layout: default
 title: CodingBat
 permalink: /codingbat-js/
 navbar: code
+container_class: codingbat-page
 ---
-<!-- #TODO: move CSS -->
 <!-- #TODO: target line length: 45 to 75 characters (ideally 66) -->
-<style>
-div.container {
-    max-width: 680px;
-}
-h1 {
-    text-align: center;
-    margin-bottom: 30px;
-}
-p {
-    font-size: 18px;
-    letter-spacing: 0.2px;
-}
-a {
-    color: #268bd2;
-    text-decoration: none;
-}
-</style>
 
 # CodingBat Problems in JavaScript
 

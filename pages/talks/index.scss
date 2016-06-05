@@ -1,1 +1,23 @@
 /* build: pages/talks/index.scss */
+div.talks-page {
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    div.lead {
+        text-align: center;
+        font-size: 20px;
+        letter-spacing: 0.2px;
+    }
+    p {
+        font-size: 18px;
+        letter-spacing: 0.2px;
+    }
+    span.date {
+
+    }
+    a {
+        color: #268bd2;
+        text-decoration: none;
+    }
+}

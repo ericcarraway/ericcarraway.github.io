@@ -2,53 +2,23 @@
 layout: default
 title: Music
 permalink: /music/
+container_class: music-page
 ---
-<style>
-div.container {
-    max-width: 680px;
-}
-h3 {
-    margin-bottom: 30px;
-}
-ul.music-list {
-    font-size: 2.2rem;
-    letter-spacing: 0.05rem;
-    line-height: 3.4rem;
-}
-</style>
+## Music
 
-<h2>Music</h2>
+### Front Ensemble
 
-<h3>Front Ensemble</h3>
-
-<ul class="music-list">
-  <li>Encore / Lot Tunes
-    <ul>
-      <li><a href="../dave-matthews-glassmen/">The Dreaming Tree &amp; The Stone</a></li>
-      <li><a href="../let-go/">Let Go</a></li>
-    </ul>
-  </li>
-  <li>Études
-    <ul>
-      <li><a href="../double-latte/">Double Latte</a></li>
-      <li><a href="../naima/">Naima</a></li>
-    </ul>
-  </li>
-  <li>Battery + Front Ensemble
-    <ul>
-      <li><a href="../triplet-diddle-game-of-thrones/">Triplet Diddle vs. Game of Thrones</a></li>
-    </ul>
-  </li>
-</ul>
+* Encore / Lot Tunes
+    * [The Dreaming Tree & The&nbsp;Stone](../dave-matthews-glassmen/)
+    * [Let Go](../let-go/)
+* Études
+    * [Double Latte](../double-latte/)
+    * [Naima](../naima/)
+* Battery + Front Ensemble
+    * [Triplet Diddle vs. Game of Thrones](../triplet-diddle-game-of-thrones/)
 
 <br>
 
-<h3>Jazz Vibraphone</h3>
+### Jazz Vibraphone
 
-<ul class="music-list">
-  <li>
-    <a href="../bobby-hutcherson-maiden-voyage/">
-      Bobby Hutcherson Solo Transcription: Maiden&nbsp;Voyage
-    </a>
-  </li>
-</ul>
+* [Bobby Hutcherson Solo Transcription: Maiden&nbsp;Voyage](../bobby-hutcherson-maiden-voyage/)

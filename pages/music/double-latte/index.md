@@ -4,6 +4,7 @@ title: Double-Latte for Front Ensemble
 permalink: /double-latte/
 fitvids: true
 navbar: music
+container_class: double-latte
 ---
 ## Double Latte for Front Ensemble
 _Double Latte_ is a technical étude for front ensemble. &nbsp;

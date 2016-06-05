@@ -8,9 +8,6 @@ navbar: music
 <!-- #TODO: move CSS -->
 <!-- #TODO: target line length: 45 to 75 characters (ideally 66) -->
 <style>
-div.container {
-    max-width: 680px;
-}
 h1 {
     text-align: center;
     margin-bottom: 30px;

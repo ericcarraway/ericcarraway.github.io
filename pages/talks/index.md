@@ -3,34 +3,9 @@ layout: default
 permalink: /talks/
 title: Talks
 navbar: talks
+container_class: talks-page
 ---
-<!-- #TODO: move CSS -->
 <!-- #TODO: target line length: 45 to 75 characters (ideally 66) -->
-<style>
-div.container {
-    max-width: 680px;
-}
-h1 {
-    text-align: center;
-    margin-bottom: 20px;
-}
-div.lead {
-    text-align: center;
-    font-size: 20px;
-    letter-spacing: 0.2px;
-}
-p {
-    font-size: 18px;
-    letter-spacing: 0.2px;
-}
-span.date {
-
-}
-a {
-    color: #268bd2;
-    text-decoration: none;
-}
-</style>
 
 <!-- #TODO: use images -->
 <!-- assets/img/talks/talks-meetup-sawebdev_1000.png -->
