@@ -8,6 +8,10 @@ container_class: code-page
 
 ### Projects
 
+* [http://fivepointsperc.org/](http://fivepointsperc.org/)
+* [http://typo-hunter.com/](http://typo-hunter.com/)
+* [http://banddraft.co/](http://banddraft.co/)
+* [http://larson-carraway.com/](http://larson-carraway.com/)
+* [http://winterguardaudioediting.com/](http://winterguardaudioediting.com/)
 * [CodingBat Problems in JavaScript](../codingbat-js/)
-* [Text-Util](../text-util/)
-<!-- TODO: http://typo-hunter.com/ -->
+* [http://codingbootcampsurvival.com/](http://codingbootcampsurvival.com/)

@@ -4,7 +4,9 @@ title: Home
 ---
 ## Home
 
-This is an example.
+Something clever will go here eventually.
+
+`¯\_(ツ)_/¯`
 
 {% if site.data.environment.is_local %}
 <span style="color: red;">
