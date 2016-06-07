@@ -7,7 +7,7 @@ container_class: miscellany-page
 ## Miscellany
 
 * [Résumé](../assets/resume.pdf)
-
+* [Workday Percentage Clock](../workday-percentage-clock/)
 <br>
 
 ### Recipes
