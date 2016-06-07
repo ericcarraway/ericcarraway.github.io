@@ -27,7 +27,7 @@ container_class: music-page
 <hr>
 
 #### Drum Corps
-From 2008-2003 I spent my summers playing keyboard percussion in DCI.
+From 1998-2003 I spent my summers playing keyboard percussion in DCI.
 [I was a meme.](http://www.quickmeme.com/Extremely-Photogenic-Marimba-Guy/)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Xxxcd7uTD3I?rel=0"
