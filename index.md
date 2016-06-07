@@ -4,6 +4,8 @@ title: Home
 ---
 ## Home
 
+> The cobbler's kids have no shoes...
+
 Something clever will go here eventually.
 
 `¯\_(ツ)_/¯`
