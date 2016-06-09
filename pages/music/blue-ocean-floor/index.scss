@@ -1,0 +1,13 @@
+/* build: pages/music/blue-ocean-floor/index.scss */
+div.blue-ocean-floor {
+    h2, p {
+        text-align: center;
+    }
+    p {
+        font-size: 1.8rem;
+    }
+    #views {
+        text-align: left;
+        font-style: italic;
+    }
+}

@@ -10,11 +10,12 @@ container_class: music-page
 ### Front Ensemble
 
 * Encore / Lot Tunes
-    * [The Dreaming Tree & The&nbsp;Stone](../dave-matthews-glassmen/)
-    * [Let Go](../let-go/)
+    * [DMB: The Dreaming Tree & The&nbsp;Stone](../dave-matthews-glassmen/)
+    * [Frou Frou: Let Go](../let-go/)
 * Études
+    * [Justin Timberlake: Blue Ocean Floor](../blue-ocean-floor/)
     * [Double Latte](../double-latte/)
-    * [Naima](../naima/)
+    * [John Coltrane: Naima](../naima/)
 * Battery + Front Ensemble
     * [Triplet Diddle vs. Game of Thrones](../triplet-diddle-game-of-thrones/)
 
