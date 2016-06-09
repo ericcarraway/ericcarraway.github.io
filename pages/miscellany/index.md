@@ -13,3 +13,7 @@ container_class: miscellany-page
 ### Recipes
 * [Crustified Cast Iron Steak](../crustified-cast-iron-steak/)
 * [Old Fashioned Cocktail Recipe](../old-fashioned-recipe/)
+
+<br>
+<hr>
+[Fitness](../fitness/)
