@@ -16,6 +16,7 @@ container_class: music-page
     * [Justin Timberlake: Blue Ocean Floor](../blue-ocean-floor/)
     * [Double Latte](../double-latte/)
     * [John Coltrane: Naima](../naima/)
+    * [Miles Davis / Bill Evans: Blue In Green](../blue-in-green/)
 * Battery + Front Ensemble
     * [Triplet Diddle vs. Game of Thrones](../triplet-diddle-game-of-thrones/)
 
