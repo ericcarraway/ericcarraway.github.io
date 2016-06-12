@@ -6,7 +6,7 @@ fitvids: true
 navbar: music
 container_class: dmb-glassmen
 ---
-## The Dreaming Tree & The&nbsp;Stone for Front&nbsp;Ensemble
+# The Dreaming Tree & The&nbsp;Stone for Front&nbsp;Ensemble
 My arrangement of two tracks from Dave Matthews Band's 1998 album
 _Before These Crowded&nbsp;Streets_.
 

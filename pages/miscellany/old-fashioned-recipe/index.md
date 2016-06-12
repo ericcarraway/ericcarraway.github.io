@@ -6,7 +6,7 @@ fitvids: false
 navbar: miscellany
 container_class: old-fashioned
 ---
-# Old Fashioned Cocktail Recipe
+# Old Fashioned Cocktail&nbsp;Recipe
 
 ![old-fashioned-recipe](../assets/old-fashioned/message.png)
 

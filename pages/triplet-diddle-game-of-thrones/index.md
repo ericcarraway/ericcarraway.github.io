@@ -7,12 +7,12 @@ navbar: music
 ---
 <!-- #TODO: move to an external stylesheet -->
 <style>
-h2, h3, p {
+p {
     text-align: center;
 }
 </style>
 
-## Triplet Diddle vs. Game of Thrones
+# Triplet Diddle vs. Game of Thrones
 This triplet diddle arrangement provides an opportunity for battery to combine with the
 front&nbsp;ensemble.
 

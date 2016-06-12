@@ -4,7 +4,7 @@ title: Miscellany
 permalink: /miscellany/
 container_class: miscellany-page
 ---
-## Miscellany
+# Miscellany
 
 * [Résumé](../assets/resume.pdf)
 * [Workday Percentage Clock](../workday-percentage-clock/)

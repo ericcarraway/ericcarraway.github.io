@@ -6,7 +6,7 @@ fitvids: true
 navbar: music
 container_class: bobby-hutcherson
 ---
-## Bobby Hutcherson Solo Transcription: Maiden&nbsp;Voyage
+# Bobby Hutcherson Solo Transcription: Maiden&nbsp;Voyage
 <div class="lead">
     <p>
         Transcription of Bobby Hutcherson's vibraphone solo on <em>Maiden&nbsp;Voyage</em>.
