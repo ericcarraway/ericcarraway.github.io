@@ -6,7 +6,7 @@ fitvids: true
 navbar: music
 container_class: double-latte
 ---
-## Double Latte for Front Ensemble
+# Double Latte for Front&nbsp;Ensemble
 _Double Latte_ is a technical étude for front ensemble. &nbsp;
 I designed it to develop two&nbsp;techniques:
 

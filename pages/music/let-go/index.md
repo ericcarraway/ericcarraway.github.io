@@ -6,7 +6,7 @@ fitvids: true
 navbar: music
 container_class: let-go
 ---
-## Let Go for Front&nbsp;Ensemble
+# Let Go for Front&nbsp;Ensemble
 <div class="lead">
     <p>
         I've a huge fan of Imogen Heap's music.&nbsp; My arrangement of <em>Let Go</em> for

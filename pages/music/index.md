@@ -5,7 +5,7 @@ permalink: /music/
 fitvids: true
 container_class: music-page
 ---
-## Music
+# Music
 
 ### Front Ensemble
 

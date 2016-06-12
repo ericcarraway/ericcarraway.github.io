@@ -6,7 +6,7 @@ fitvids: true
 navbar: music
 container_class: blue-in-green
 ---
-## Blue In Green for&nbsp;Front&nbsp;Ensemble
+# Blue In Green for&nbsp;Front&nbsp;Ensemble
 _single alternating étude_<br><br>
 based on a ballad from<br>
 Miles Davis' 1959 album _Kind of Blue_<br><br>

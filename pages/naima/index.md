@@ -8,10 +8,6 @@ navbar: music
 <!-- #TODO: move CSS -->
 <!-- #TODO: target line length: 45 to 75 characters (ideally 66) -->
 <style>
-h1 {
-    text-align: center;
-    margin-bottom: 30px;
-}
 p {
     font-size: 18px;
     letter-spacing: 0.2px;
@@ -21,8 +17,7 @@ a {
     text-decoration: none;
 }
 </style>
-
-## Naima for Front Ensemble
+# Naima for Front Ensemble
 _Naima_ is a technical étude for front&nbsp;ensemble designed to focus on the double&nbsp;vertical
 stroke (block&nbsp;chords).&nbsp;
 It is based on a John&nbsp;Coltrane ballad from the 1959 album _Giant&nbsp;Steps_.&nbsp;

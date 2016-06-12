@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 container_class: about-page
 ---
-## About
+# About
 
 ![Eric Carraway](../assets/img/headshots/eric-carraway-2015-510.jpg)
 

@@ -5,7 +5,7 @@ permalink: /code/
 fitvids: true
 container_class: code-page
 ---
-## Code
+# Code
 
 ### Projects
 

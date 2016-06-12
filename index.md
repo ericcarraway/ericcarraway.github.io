@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-## Home
+# Home
 
 > The cobbler's kids have no shoes...
 
