@@ -1,28 +1,30 @@
 # Sitemap
 
 * Home
-    * [/index](../index.md)
+    * [/index](../../index.md)
 * About
-    * [/index](../pages/about/)
+    * [/index](../about/)
 * Music
-    * [/index](../pages/music/)
-    * [Blue in Green](../pages/music/blue-in-green/)
-    * [Blue Ocean Floor](../pages/music/blue-ocean-floor/)
-    * [Bobby Hutcherson Maiden Voyage](../pages/music/bobby-hutcherson-maiden-voyage/)
-    * [Dave Matthews Glassmen](../pages/music/dave-matthews-glassmen/)
-    * [Double Latte](../pages/music/double-latte/)
-    * [Electronic Drums Cart](../pages/music/electronic-drums-cart/)
-    * [Let Go](../pages/music/let-go/)
-    * [Naima](../pages/naima/)
-    * [Triplet Diddle Game of Thrones](../pages/triplet-diddle-game-of-thrones/)
+    * [/index](../music/)
+    * [Blue in Green](../music/blue-in-green/)
+    * [Blue Ocean Floor](../music/blue-ocean-floor/)
+    * [Bobby Hutcherson Maiden Voyage](../music/bobby-hutcherson-maiden-voyage/)
+    * [Dave Matthews Glassmen](../music/dave-matthews-glassmen/)
+    * [Double Latte](../music/double-latte/)
+    * [Electronic Drums Cart](../music/electronic-drums-cart/)
+    * [Let Go](../music/let-go/)
+    * [Naima](../naima/)
+    * [Triplet Diddle Game of Thrones](../triplet-diddle-game-of-thrones/)
 * Code
-    * [/index](../pages/code/)
-    * [CodingBat JavaScript](../pages/code/codingbat-js/)
+    * [/index](../code/)
+    * [CodingBat JavaScript](../code/codingbat-js/)
 * Talks
-    * [/index](../pages/talks/)
+    * [/index](../talks/)
 * Miscellany
-    * [/index](../pages/miscellany/)
-    * [Crustified Cast Iron Steak](../pages/miscellany/crustified-cast-iron-steak/)
-    * [Fitness](../pages/miscellany/fitness/)
-    * [Old Fashioned Recipe](../pages/miscellany/old-fashioned-recipe/)
-    * [Workday Percentage Clock](../pages/miscellany/workday-percentage-clock/)
+    * [/index](../miscellany/)
+    * [Crustified Cast Iron Steak](../miscellany/crustified-cast-iron-steak/)
+    * [Fitness](../miscellany/fitness/)
+    * [Old Fashioned Recipe](../miscellany/old-fashioned-recipe/)
+    * [Workday Percentage Clock](../miscellany/workday-percentage-clock/)
+
+![sitemap](../../_screenshots/desktop/2016-06-12-sitemap.png)
