@@ -6,6 +6,10 @@
     }
     h1 {
         text-align: center;
+
+        /* get the page title out from under the navbar */
+        margin-top: 72px;
+
         margin-bottom: 28px;
     }
 }

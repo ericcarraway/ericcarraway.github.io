@@ -5,9 +5,6 @@ permalink: /about/
 container_class: about-page
 ---
 # About
-
-![Eric Carraway](../assets/img/headshots/eric-carraway-2015-510.jpg)
-
 Hi, I'm Eric.&nbsp; I'm carving a niche as a musician, educator, and software developer in
 San Antonio,&nbsp;Texas.
 

@@ -1,0 +1,57 @@
+/* build: _sass/navbar.scss */
+div.navbar-header {
+    height: 90px;
+    margin-bottom: 30px;
+    /* headshot */
+    img {
+        height: 90px;
+        display: block;
+        border-radius: 100px;
+        margin-top: 4px;
+        margin-bottom: 8px;
+    }
+    a.navbar-brand {
+        margin: 4px;
+        padding: 0;
+    }
+}
+nav.navbar.navbar-default.navbar-fixed-top {
+    border: none;
+}
+/* desktop / horizontal menu - not collapsed */
+@media screen and (min-width: 768px) {
+    /* nav links */
+    .navbar-nav > li > a {
+        padding-top: 48px;
+
+        /* margin: control the space between nav links */
+        /* padding: control the width of the 'active' underline */
+        margin-left: 12px;
+        padding-left: 4px;
+        margin-right: 12px;
+        padding-right: 4px;
+
+        /* space between the 'active' underline and the nav link text */
+        padding-bottom: 12px;
+
+        /* space to the bottom of the nav container */
+        margin-bottom: 35px;
+    }
+    .navbar-default .navbar-nav > .active > a,
+    .navbar-default .navbar-nav > .active > a:hover,
+    .navbar-default .navbar-nav > .active > a:focus {
+        /* override bootstrap */
+        background-color: transparent;
+
+        /* apply DARK GREY underline to nav link when active */
+        border-bottom: 3px solid #313131;
+    }
+    .navbar-default .navbar-nav > li > a:hover,
+    .navbar-default .navbar-nav > li > a:focus {
+        /* override bootstrap */
+        background-color: transparent;
+
+        /* apply LIGHT GREY underline on hover / focus */
+        border-bottom: 3px solid #cccccc;
+    }
+}
