@@ -35,3 +35,7 @@ From 1998-2003 I spent my summers playing keyboard percussion in DCI.
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Xxxcd7uTD3I?rel=0"
         frameborder="0" allowfullscreen>
 </iframe>
+
+## Projects
+> [Electronic Drums Cart](../electronic-drums-cart/)
+<br>_front ensemble cart for the Yamaha DTX-MULTI 12_
