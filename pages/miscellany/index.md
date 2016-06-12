@@ -17,3 +17,6 @@ container_class: miscellany-page
 <br>
 <hr>
 [Fitness](../fitness/)
+<br>
+<hr>
+[Sitemap](../sitemap/)
