@@ -38,6 +38,21 @@ https://www.facebook.com/banddraftgames/</a>
   </div>
 </div>
 
+<hr>
+
+## Toyota of Killeen Multi-Point Inspection App
+_September 13, 2015_
+
+I built an app for the service department of a local car dealership.
+It allows auto mechanics use inexpensive Android tablets to enter inspection records
+directly from their service bays.
+
+See a demo here: <a href="http://carraway.me/toyota">http://carraway.me/toyota</a>
+<img src="../assets/toyota-mpi/toyota-mpi-1.png"
+     style="max-width:500px"
+     alt="Toyota Multi-Point Inspection 1">
+
+<hr>
 {% if site.data.environment.is_local %}
 <span style="color: red;">
       site.data.environment.is_local
