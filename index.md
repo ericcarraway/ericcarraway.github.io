@@ -2,13 +2,13 @@
 layout: default
 title: Home
 ---
-# Home
+<h1 style="visibility:hidden">Home</h1>
 
-> The cobbler's kids have no shoes...
+## 1,000 GitHub commits in the last year
+_June 12, 2016_
 
-Something clever will go here eventually.
-
-`¯\_(ツ)_/¯`
+Today, I pushed my 1,000<sup>th</sup> commit to GitHub in the last year.
+![1,000 GitHub commits](../assets/img/1000-commits.jpg)
 
 {% if site.data.environment.is_local %}
 <span style="color: red;">
