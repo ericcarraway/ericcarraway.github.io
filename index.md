@@ -68,6 +68,29 @@ _695 plays since Sep 22, 2011_
 
 <hr>
 
+## 5points Percussion - Website Project
+_December 5, 2015_
+
+**5points** is a _WGI Independent Open World Finalist_ percussion ensemble based in San Antonio.
+We were founded in 2015 with a mission of enriching the lives of Texas youth through the
+indoor percussion activity.
+
+View the website -
+<a href="http://fivepointsperc.org/">http://fivepointsperc.org/</a>
+\- built with **Jekll**, a static site generator written in **Ruby**.
+
+Keep up with our current activity on our
+<a href="https://www.facebook.com/5points-1625994204338697/">
+Facebook page</a>.
+<div class="row">
+  <div class="col-xs-6">
+    <img src="../assets/fivepoints/fivepointsperc-1.jpg" alt="fivepoints-1">
+  </div>
+  <div class="col-xs-6">
+    <img src="../assets/fivepoints/fivepointsperc-2.jpg" alt="fivepoints-2">
+  </div>
+</div>
+
 {% if site.data.environment.is_local %}
 <span style="color: red;">
       site.data.environment.is_local
