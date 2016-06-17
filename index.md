@@ -4,6 +4,26 @@ title: Home
 ---
 <h1 style="visibility:hidden">Home</h1>
 
+## StrengthsFinder Results
+_June 14, 2016_
+
+Today I took the Clifton StrengthsFinder, Gallup’s online psychological assessment.
+I'm a contractor at Rackspace, where all full-time employees take the assessment as part of their
+onboarding process.  After learning more about the _Top Five Strengths_ of my various teammates,
+I was inspired to take the assessment. Here are my results:
+<ol style="display:none">
+  <li>Ideation</li>
+  <li>Strategic</li>
+  <li>Input</li>
+  <li>Achiever</li>
+  <li>Maximizer</li>
+</ol>
+<img src="../assets/five-strengths/five-strengths-750.png"
+     style="max-width:500px"
+     alt="Top Five Strengths">
+
+<hr>
+
 ## 1,000 GitHub commits in the last year
 _June 12, 2016_
 
