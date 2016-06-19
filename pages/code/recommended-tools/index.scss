@@ -4,7 +4,7 @@ div.recommended-tools {
         font-style: italic;
     }
     a {
-        color: #268bd2;
+        color: $strong-blue;
         text-decoration: none;
     }
     img[alt="Seil"] {
@@ -22,7 +22,7 @@ div.recommended-tools {
     }
     p.backspace-distance {
         font-style: italic;
-        color: #313131;
+        color: $gray-5;
         font-size: 16px;
         text-align: center;
         margin-bottom: 18px;

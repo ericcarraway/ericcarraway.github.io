@@ -18,23 +18,23 @@ div.navbar-header {
 nav.navbar.navbar-default.navbar-fixed-top {
     border: none;
 }
-/* desktop / horizontal menu - not collapsed */
+// desktop / horizontal menu - not collapsed
 @media screen and (min-width: 768px) {
     /* nav links */
     .navbar-nav > li > a {
         padding-top: 48px;
 
-        /* margin: control the space between nav links */
-        /* padding: control the width of the 'active' underline */
+        // margin: control the space between nav links
+        // padding: control the width of the 'active' underline
         margin-left: 12px;
         padding-left: 4px;
         margin-right: 12px;
         padding-right: 4px;
 
-        /* space between the 'active' underline and the nav link text */
+        // space between the 'active' underline and the nav link text
         padding-bottom: 12px;
 
-        /* space to the bottom of the nav container */
+        // space to the bottom of the nav container
         margin-bottom: 35px;
     }
     .navbar-default .navbar-nav > .active > a,
@@ -44,7 +44,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
         background-color: transparent;
 
         /* apply DARK GREY underline to nav link when active */
-        border-bottom: 3px solid #313131;
+        border-bottom: 3px solid $gray-5;
     }
     .navbar-default .navbar-nav > li > a:hover,
     .navbar-default .navbar-nav > li > a:focus {
@@ -52,6 +52,6 @@ nav.navbar.navbar-default.navbar-fixed-top {
         background-color: transparent;
 
         /* apply LIGHT GREY underline on hover / focus */
-        border-bottom: 3px solid #cccccc;
+        border-bottom: 3px solid $gray-2;
     }
 }

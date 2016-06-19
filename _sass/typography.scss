@@ -1,19 +1,19 @@
 /* build: _sass/typography.scss */
 .container {
     h1, h2, h3, h4, h5, h6 {
-      color: #313131;
+      color: $gray-5;
       text-rendering: optimizeLegibility;
     }
     h1 {
         text-align: center;
 
-        /* get the page title out from under the navbar */
+        // get the page title out from under the navbar
         margin-top: 72px;
 
         margin-bottom: 28px;
     }
 }
 .navbar-default .navbar-brand {
-    color: #313131;
+    color: $gray-5;
     text-rendering: optimizeLegibility;
 }

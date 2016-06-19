@@ -5,16 +5,16 @@ html {
     min-height: 100%;
 }
 body {
-    /* margin bottom by footer height */
+    // margin bottom by footer height
     margin-bottom: 28px;
 }
 .footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    /* set the fixed height of the footer here */
+    // set the fixed height of the footer here
     height: 29px;
-    background-color: #eee;
+    background-color: $gray-0;
 }
 /* custom page css */
 body > .container {
@@ -25,7 +25,7 @@ body > .container {
     font-size: 18px;
     text-align: center;
     a {
-        color: #313131;
+        color: $gray-5;
         margin-left: 10px;
         margin-right: 10px;
         text-decoration: none;
@@ -36,7 +36,7 @@ body > .container {
     padding-left: 15px;
 }
 
-/* TODO: 2016-06-05 move */
+// TODO: 2016-06-05 move
 div.container {
     max-width: 680px;
 }
