@@ -30,6 +30,7 @@ container_class: sitemap
     * [/index](../talks/)
 * Miscellany
     * [/index](../miscellany/)
+    * [2015 in Audiobooks](../2015-in-audiobooks/)
     * [Crustified Cast Iron Steak](../crustified-cast-iron-steak/)
     * [Fitness](../fitness/)
     * [Old Fashioned Recipe](../old-fashioned-recipe/)
