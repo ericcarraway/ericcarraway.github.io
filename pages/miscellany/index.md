@@ -7,6 +7,7 @@ container_class: miscellany-page
 # Miscellany
 
 * [Résumé](../assets/resume.pdf)
+* [2015 in Audiobooks](../2015-in-audiobooks/)
 * [Workday Percentage Clock](../workday-percentage-clock/)
 <br>
 
