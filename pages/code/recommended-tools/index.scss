@@ -1,0 +1,33 @@
+/* build: pages/code/recommended-tools/index.scss */
+div.recommended-tools {
+    span {
+        font-style: italic;
+    }
+    a {
+        color: #268bd2;
+        text-decoration: none;
+    }
+    img[alt="Seil"] {
+        border-radius: 14px; /* hide grey corners */
+        max-width: 48%; /* also, bootstrap .pull-left */
+        margin-right: 2px;
+    }
+    img[alt="Karabiner"] {
+        border-radius: 14px; /* hide grey corners */
+        max-width: 48%; /* also, bootstrap .pull-right */
+        margin-left: 2px;
+    }
+    img[alt="backspace-distance"] {
+        border-radius: 14px; /* hide grey corners */
+    }
+    p.backspace-distance {
+        font-style: italic;
+        color: #313131;
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 18px;
+    }
+    li {
+        margin-top: 16px;
+    }
+}
