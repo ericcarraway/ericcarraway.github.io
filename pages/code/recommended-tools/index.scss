@@ -30,4 +30,67 @@ div.recommended-tools {
     li {
         margin-top: 16px;
     }
+    .sprite-sheet {
+        background: url(../recommended-tools/sprite-sheet-512.jpg);
+        display: inline-block;
+        height: 128px;;
+        width: 128px;
+        margin-top: 2px;
+        margin-bottom: 2px;
+    }
+    .col-info {
+        padding-left: 12px;
+    }
+    table {
+        max-width: inherit;
+        margin-bottom: 10px;
+    }
+    #sprite-01 { // Atom
+        background-position: 0px 0px;
+    }
+    #sprite-02 { // Audactiy
+        background-position: 384px 0px;
+    }
+    #sprite-03 { // Blinged JSON Validator
+        background-position: 0px 384px;
+    }
+    #sprite-04 { // Chrome Canary
+        background-position: 384px 384px;
+    }
+    #sprite-05 { // Evernote
+        background-position: 256px 0px;
+    }
+    #sprite-06 { // Firefox Developer
+        background-position: 128px 0px;
+    }
+    #sprite-07 { // Flux
+        background-position: 256px 384px;
+    }
+    #sprite-08 { // Fotor
+        background-position: 128px 384px;
+    }
+    #sprite-09 { // GIMP
+        background-position: 0px 256px;
+    }
+    #sprite-10 { // Grammarly
+        background-position: 384px 256px;
+    }
+    #sprite-11 { // ImageOptim
+        background-position: 0px 128px;
+    }
+    #sprite-12 { // iTerm
+        background-position: 384px 128px;
+    }
+    #sprite-13 { // LICEcap
+        background-position: 256px 256px;
+    }
+    #sprite-14 { // Pomodoro Timer
+        background-position: 128px 256px;
+    }
+    #sprite-15 { // Postman
+        background-position: 256px 128px;
+    }
+    #sprite-16 { // Type Fu
+        background-position: 128px 128px;
+    }
 }
