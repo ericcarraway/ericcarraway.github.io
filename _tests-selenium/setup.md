@@ -24,3 +24,8 @@ will create a new `package.json` file to save dependencies
 selenium-standalone install
 selenium-standalone start
 ```
+---
+Java SE Development Kit 8 Downloads
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+`jdk-8u91-macosx-x64.dmg`
