@@ -16,6 +16,7 @@ Live audio begins at 0:35.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E2s8n5hWu7w?rel=0"
         frameborder="0" allowfullscreen>
 </iframe>
+<p class="yt-views">519 views</p>
 <br>
 
 ### 2009 Glassmen Front Ensemble
@@ -41,3 +42,4 @@ Live audio begins at 0:35.
     <p><strong>Rack Percussion:</strong>
     <br />Corey Broschak</p>
 <div>
+<p><img src="../assets/img/glassmen-pit-2009-2.jpg" alt="2009 Glassmen Front Ensemble 2" /></p>
