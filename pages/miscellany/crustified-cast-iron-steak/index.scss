@@ -11,4 +11,10 @@ div.steak-recipe {
         letter-spacing: 0.05rem;
         line-height: 3.1rem;
     }
+    .photo-credit {
+        text-align: right;
+        font-style: italic;
+        font-size: 13px;
+        color: $gray-2;
+    }
 }
