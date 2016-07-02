@@ -11,7 +11,8 @@ container_class: steak-recipe
 _Forget the grill - prepare the perfect steak by searing it on a cast iron skillet
 and baking it in an&nbsp;oven_
 ![crustified-cast-iron-steak](../assets/steak-recipe/crustified-cast-iron-steak.jpg)
-_Credit: Jason Younts_
+
+<p class="photo-credit">Credit: Jason Younts</p>
 
 ## Directions:
 * Use a dry rub for maximum&nbsp;crustification
@@ -33,3 +34,5 @@ _Credit: Jason Younts_
 * Place the steak on a cutting board or plate
   * _Optional:_ Cover loosely with aluminum foil or a dish&nbsp;towel
   * Let it rest for 5-10 minutes without cutting into&nbsp;it
+
+![steaks](../assets/steak-recipe/steaks.jpg)
