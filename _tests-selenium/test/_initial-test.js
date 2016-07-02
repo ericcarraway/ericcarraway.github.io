@@ -1,7 +1,7 @@
-// http://webdriver.io/
-
-// require the module
 var webdriverio = require('webdriverio');
+
+var BASE_URL = 'http://www.ericcarraway.com';
+// var BASE_URL = 'http://localhost:4000/';
 
 // set up some options for our instance
 var options = {
@@ -13,9 +13,10 @@ var options = {
 // start a new session with our options
 var client = webdriverio.remote(options);
 
+console.log('starting...');
 client
     .init()
-    .url('http://www.ericcarraway.com')
+    .url(BASE_URL)
     .getTitle().then(function (title) {
         console.log('Title is: ' + title);
     })
