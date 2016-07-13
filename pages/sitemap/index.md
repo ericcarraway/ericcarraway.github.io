@@ -26,6 +26,7 @@ container_class: sitemap
     * [/index](../code/)
     * [CodingBat JavaScript](../codingbat-js/)
     * [Recommended Tools](../recommended-tools/)
+    * [Skills](../skills/)
 * Talks
     * [/index](../talks/)
 * Miscellany
