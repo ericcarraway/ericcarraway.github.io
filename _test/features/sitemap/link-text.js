@@ -53,6 +53,10 @@ describe('\'Sitemap\' page: link text', function () {
         it('should include \'Recommended Tools\'', function () {
             expect(arrayLinkText).to.include('Recommended Tools');
         });
+
+        it('should include \'Skills\'', function () {
+            expect(arrayLinkText).to.include('Skills');
+        });
     });
 
     describe('\'Miscellany\' links', function () {
