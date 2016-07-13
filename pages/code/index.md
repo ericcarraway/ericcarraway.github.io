@@ -6,6 +6,7 @@ fitvids: true
 container_class: code-page
 ---
 # Code
+* [Skills](../skills/)
 
 ### Projects
 
