@@ -97,7 +97,7 @@ indoor percussion activity.
 
 View the website -
 <a href="http://fivepointsperc.org/">http://fivepointsperc.org/</a>
-\- built with **Jekll**, a static site generator written in **Ruby**.
+\- built with **Jekyll**, a static site generator written in **Ruby**.
 
 Keep up with our current activity on our
 <a href="https://www.facebook.com/5points-1625994204338697/">
