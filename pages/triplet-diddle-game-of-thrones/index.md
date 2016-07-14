@@ -19,6 +19,7 @@ front&nbsp;ensemble.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l63i0jZdKvw?rel=0"
         frameborder="0" allowfullscreen>
 </iframe>
+<p id="yt-views">227 views</p>
 <br>
 
 The University of Dayton Arena is the venue for the annual

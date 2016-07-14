@@ -18,14 +18,14 @@ container_class: let-go
 <iframe width="420" height="315" src="https://www.youtube.com/embed/POQTj_0n1So"
     frameborder="0" allowfullscreen>
 </iframe>
-_1,765 views_
+_1,772 views_
 
 ![Let Go 00](../assets/let-go/frou-frou-let-go-00.png)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/jj4roqr0Zok"
     frameborder="0" allowfullscreen>
 </iframe>
-_1,261 views_
+_1,263 views_
 
 <br>
 
