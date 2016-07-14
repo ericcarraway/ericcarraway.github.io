@@ -24,7 +24,10 @@ It is based on a John&nbsp;Coltrane ballad from the 1959 album _Giant&nbsp;Steps
 I arranged this for the **Glassmen Front&nbsp;Ensemble** in 2011.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OL25vbEzAvA?rel=0"
-        frameborder="0" allowfullscreen></iframe>
+        frameborder="0" allowfullscreen>
+</iframe>
+<p id="yt-views">875 views</p>
+
 
 ### Visualizing Chord Shapes
 I created this visualization for my students to aide in their learning of the vibraphone part.&nbsp;
