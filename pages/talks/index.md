@@ -20,6 +20,21 @@ container_class: talks-page
 
 <hr>
 
+### Unit Testing in JavaScript Using Mocha & Chai
+
+#### Hill Country JavaScript
+
+<span class="date">July 20, 2016</span>
+<br>
+<a href="http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/225255722/">
+         http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/225255722/
+</a>
+
+Eric Carraway will preset on unit testing in JavaScript using Mocha&nbsp;&amp;&nbsp;Chai.
+<br>
+
+<hr>
+
 ### Pair-Programming at Rackspace
 
 #### The San Antonio Web Development Group
