@@ -4,7 +4,7 @@ describe('\'Skills\' page', function () {
     var containerText;
 
     before(function () {
-        browser.url(config.baseUrl + 'skills/');
+        browser.url(config.baseUrl + 'skills');
         containerText = browser.getText('div.container.skills-page');
 
         // make an array

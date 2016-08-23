@@ -4,7 +4,7 @@ describe('\'Sitemap\' page: navigation via links', function () {
     var heading;
 
     before(function () {
-        browser.url(config.baseUrl + '/sitemap/');
+        browser.url(config.baseUrl + 'sitemap');
     });
 
     afterEach(function () {

@@ -5,7 +5,7 @@ describe('\'Sitemap\' page: link text', function () {
     var arrayLinkText;
 
     before(function () {
-        browser.url(config.baseUrl + '/sitemap/');
+        browser.url(config.baseUrl + 'sitemap');
         arrayLinkText = browser.getText(selector);
     });
 
