@@ -20,6 +20,21 @@ container_class: talks-page
 
 <hr>
 
+### Browser-Automation Testing with JavaScript
+
+#### The San Antonio Web Development Group
+
+<span class="date">August 16, 2016</span>
+<br>
+<a href="http://www.meetup.com/sawebdev/events/233063773/">
+         http://www.meetup.com/sawebdev/events/233063773/
+</a>
+
+Functional testing with WebdriverIO (Selenium bindings for NodeJS) and&nbsp;Chimp
+<br>
+
+<hr>
+
 ### Unit Testing in JavaScript Using Mocha & Chai
 
 #### Hill Country JavaScript
