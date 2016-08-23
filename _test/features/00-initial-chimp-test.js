@@ -1,13 +1,6 @@
-// 2016-07-01
+var config = require('../config.js');
 
-// https://chimp.readme.io/
-// https://github.com/xolvio/chimp
-
-// $ cd ericcarraway.github.io/_test
-
-// $ chimp --mocha --browser=firefox
-
-describe('initial Chimp.js test', function () {
+describe('initial tests', function () {
     var navbarLinks = {
         home: 'li.nav-home',
         about: 'li.nav-about',
@@ -17,14 +10,14 @@ describe('initial Chimp.js test', function () {
         miscellany: 'li.nav-miscellany'
     };
 
-    describe('loading the main page', function () {
-        // example from the documentation:
-        it('should have the correct title', function () {
-            var title;
+    before(function () {
+        browser.url(config.baseUrl);
+    });
 
-            browser.url('http://ericcarraway.com');  // set up
-            title = browser.getTitle();              // execute
-            expect(title).to.equal('Eric Carraway'); // verify
+    describe('loading the main page', function () {
+        it('should have the correct title', function () {
+            var title = browser.getTitle();
+            expect(title).to.equal('Eric Carraway');
         });
     });
 

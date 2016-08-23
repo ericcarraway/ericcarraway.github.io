@@ -1,8 +1,10 @@
+var config = require('../../config.js');
+
 describe('\'Sitemap\' page: navigation via links', function () {
     var heading;
 
     before(function () {
-        browser.url('http://ericcarraway.com/sitemap/');
+        browser.url(config.baseUrl + '/sitemap/');
     });
 
     afterEach(function () {
