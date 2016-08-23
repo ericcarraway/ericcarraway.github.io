@@ -84,7 +84,7 @@ Arranged and performed by Eric Carraway.
 src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23887807&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true">
 </iframe>
 <!-- #TODO: update this dynamically via the SoundCloud API -->
-_713 plays since Sep 22, 2011_
+_726 plays since Sep 22, 2011_
 
 <hr>
 
@@ -96,7 +96,7 @@ We were founded in 2015 with a mission of enriching the lives of Texas youth thr
 indoor percussion activity.
 
 View the website -
-<a href="http://fivepointsperc.org/">http://fivepointsperc.org/</a>
+<a href="http://5pointspercussion.org/">http://5pointspercussion.org/</a>
 \- built with **Jekyll**, a static site generator written in **Ruby**.
 
 Keep up with our current activity on our
