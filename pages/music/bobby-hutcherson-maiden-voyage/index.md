@@ -15,7 +15,7 @@ container_class: bobby-hutcherson
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XTc1-FBiTEk"
         frameborder="0" allowfullscreen>
 </iframe>
-<p id="yt-views">235 views</p>
+<p id="yt-views">270 views</p>
 
 <hr>
 

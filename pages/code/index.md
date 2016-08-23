@@ -26,7 +26,7 @@ This is an idea for an Oculus Rift / Google Cardboard project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BctoewdofNU?rel=0"
         frameborder="0" allowfullscreen>
 </iframe>
-<p id="yt-views">228 views</p>
+<p id="yt-views">233 views</p>
 
 <hr>
 
@@ -37,7 +37,7 @@ Notation and transport controls are handled by the Soundslice web app.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CW07DeP5Kww?rel=0"
         frameborder="0" allowfullscreen>
 </iframe>
-<p id="yt-views">18 views</p>
+<p id="yt-views">23 views</p>
 
 <hr>
 * [Recommended Tools](../recommended-tools/)
