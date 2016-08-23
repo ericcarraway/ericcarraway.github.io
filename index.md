@@ -96,7 +96,7 @@ We were founded in 2015 with a mission of enriching the lives of Texas youth thr
 indoor percussion activity.
 
 View the website -
-<a href="http://fivepointsperc.org/">http://fivepointsperc.org/</a>
+<a href="http://5pointspercussion.org/">http://5pointspercussion.org/</a>
 \- built with **Jekyll**, a static site generator written in **Ruby**.
 
 Keep up with our current activity on our
