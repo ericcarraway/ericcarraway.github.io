@@ -16,4 +16,4 @@ Miles Davis' 1959 album _Kind of Blue_<br><br>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/OnOcaVaCQGc?rel=0"
         frameborder="0" allowfullscreen>
 </iframe>
-<p id="yt-views">624 views</p>
+<p id="yt-views">625 views</p>
