@@ -1,9 +1,11 @@
+var config = require('../../config.js');
+
 describe('\'Sitemap\' page: link text', function () {
     var selector = 'div.sitemap a';
     var arrayLinkText;
 
     before(function () {
-        browser.url('http://ericcarraway.com/sitemap/');
+        browser.url(config.baseUrl + 'sitemap');
         arrayLinkText = browser.getText(selector);
     });
 
