@@ -1,0 +1,31 @@
+<!-- target for toggling the sidebar
+    `.sidebar-checkbox` is for regular styles, `#sidebar-checkbox` for behavior -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>sidebar header</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <!-- add the 'active' class if ... -->
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
+
+    <!-- add the 'active' class if ... -->
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="/about">About</a>
+
+    <a class="sidebar-nav-item" href="/music">Music</a>
+    <a class="sidebar-nav-item" href="/code">Code</a>
+    <a class="sidebar-nav-item" href="/talks">Talks</a>
+    <a class="sidebar-nav-item" href="/miscellany">Miscellany</a>
+
+    <span class="sidebar-nav-item">sidebar footer</span>
+  </nav><!--/.sidebar-nav -->
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2016. All rights reserved.
+    </p>
+  </div>
+</div><!--/.sidebar -->
