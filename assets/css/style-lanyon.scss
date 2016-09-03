@@ -28,3 +28,6 @@
 // build: _sass/02-lanyon/07-reverse-layout.scss
 // build: _sass/02-lanyon/08-themes.scss
 // build: _sass/02-lanyon/09-overlay-sidebar.scss
+
+// custom styles on a per-page basis using page.container_class
+@import '../pages/about/index';

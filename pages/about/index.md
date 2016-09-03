@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: default-lanyon
 title: About
 permalink: /about/
 container_class: about-page
 ---
-# About
+
+<h1 class="page-title">About</h1>
+
 Hi, I'm Eric.&nbsp; I'm carving a niche as a musician, educator, and software developer in
 San Antonio,&nbsp;Texas.
 
