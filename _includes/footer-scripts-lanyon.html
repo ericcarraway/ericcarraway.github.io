@@ -26,3 +26,14 @@
   ga('create', 'UA-61495887-1', 'auto');
   ga('send', 'pageview');
 </script>
+
+<script src="../assets/js/vendor/zepto.min.js"></script><!-- Zepto v1.2.0 -->
+
+<!-- performance: only inject FitVids.js if needed -->
+{% if page.fitvids == true %}
+    <!-- jQuery plugin for fluid-width video embeds -->
+    <script src="../assets/js/vendor/jquery.fitvids.min.js"></script>
+
+    <!-- initialize FitVids.js on the container element -->
+    <script>$(document).ready(function(){$('div.container').fitVids();});</script>
+{% endif %}

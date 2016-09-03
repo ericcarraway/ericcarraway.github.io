@@ -8,7 +8,12 @@
     <meta name="author" content="Eric Carraway">
     <link rel="icon" href="../assets/img/favicon.ico">
 
-    <title>Eric Carraway</title>
-
+    <title>
+      {% if page.title %}
+        Eric Carraway &middot; {{ page.title }}
+      {% else %}
+        Eric Carraway &middot; Web Developer
+      {% endif %}
+    </title>
     <link rel="stylesheet" href="../assets/css/style-lanyon.css">
 </head>
