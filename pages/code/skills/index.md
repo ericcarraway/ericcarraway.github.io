@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: default-lanyon
 title: Skills
 permalink: /skills/
 navbar: code
 container_class: skills-page
 ---
-# Skills
+<h1 class="page-title">Skills</h1>
 
 ## Technical Skills
 

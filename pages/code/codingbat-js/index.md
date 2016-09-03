@@ -1,11 +1,10 @@
 ---
 layout: default-lanyon
-title: CodingBat
+title: CodingBat in JavaScript
 permalink: /codingbat-js/
 navbar: code
 container_class: codingbat-page
 ---
-
 <h1 class="page-title">CodingBat Problems in JavaScript</h1>
 
 <a href="http://codingbat.com/">CodingBat</a>
@@ -51,5 +50,3 @@ for this project.
 
 <a href="http://codingbat.com/">CodingBat</a> and its materials are copyright
 <a href="http://cs.stanford.edu/people/nick/">Nick&nbsp;Parlante</a>.
-
-<br>
