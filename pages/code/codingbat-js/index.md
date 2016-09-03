@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: default-lanyon
 title: CodingBat
 permalink: /codingbat-js/
 navbar: code
 container_class: codingbat-page
 ---
-<!-- #TODO: target line length: 45 to 75 characters (ideally 66) -->
 
-# CodingBat Problems in JavaScript
+<h1 class="page-title">CodingBat Problems in JavaScript</h1>
 
 <a href="http://codingbat.com/">CodingBat</a>
 is an excellent resource for practicing method code;
