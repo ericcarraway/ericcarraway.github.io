@@ -1,4 +1,37 @@
 /* build: pages/about/index.scss */
 div.about-page {
     margin-top: 3rem; // distance between content and masthead
+
+    h1 {
+        float: left;
+    }
+
+    a {
+        float: right;
+        margin: 2px;
+    }
+
+    p.message {
+        clear: both;
+    }
+
+    img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 375px;
+    }
+
+    span {
+        color: $alizarin-crimson;
+    }
+}
+
+@media (max-width: 607px) {
+    // smaller github and linkedin icons on smaller screens
+    div.about-page i.svg-icon {
+        width: 32px;
+        height: 32px;
+
+        background-size: 100%;
+    }
 }
