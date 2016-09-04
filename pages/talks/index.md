@@ -1,24 +1,21 @@
 ---
-layout: default
+layout: default-lanyon
 permalink: /talks/
 title: Talks
 navbar: talks
 container_class: talks-page
 ---
-<!-- #TODO: target line length: 45 to 75 characters (ideally 66) -->
-
 <!-- #TODO: use images -->
 <!-- assets/img/talks/talks-meetup-sawebdev_1000.png -->
 <!-- assets/img/talks/talks-meetup-satnug_1000.png -->
-
-# Talks
-<div class="lead">
-    I like to share my experiences as a developer at meetups.
-    <br>
-    Here are some of the talks that I've given.
+<div class="talks-header">
+    <h1 class="page-title">Talks</h1>
+    <p>
+        I like to share my experiences<br>
+        as a developer at Meetups.<br>
+        Here are some of the talks that I've given.
+    </p>
 </div>
-
-<hr>
 
 ### Browser-Automation Testing with JavaScript
 

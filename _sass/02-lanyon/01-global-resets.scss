@@ -47,6 +47,9 @@ h1, h2, h3, h4, h5, h6 {
 .container {
   max-width: 28rem;
 }
+
+// #TODO
+// https://github.com/WhatsNewSaes/Skeleton-Sass/blob/master/scss/modules/_media-queries.scss
 @media (min-width: 38em) {
   .container {
     max-width: 32rem;
