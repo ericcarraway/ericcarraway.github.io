@@ -14,6 +14,7 @@ div.talks-page {
         background-repeat: no-repeat;
         width: inherit;
         height: 300px;
+
         p {
             color: white;
             font-style: italic;
@@ -21,9 +22,41 @@ div.talks-page {
             padding: 1.2rem;
         }
     }
+    a {
+        // match the blue in the slide deck
+        color: #28a4d9;
+    }
+    h2.talks-title {
+        font-size: 1.1rem;
+        font-weight: 600;
+        letter-spacing: 0;
 
-    span.date {
+        // match the red in the chair
+        color: #ce1a57;
+    }
+    small {
+        font-size: .7rem;
+        color: $gray-3;
+        font-style: italic;
+    }
+    h4.talks-location {
+        float: left;
+        margin: 0;
+        font-size: .9rem;
+    }
+    p.talks-date {
+        float: right;
+        font-size: .8rem;
+        font-style: italic;
+    }
 
+    // clear: both;
+
+    // center the iframe
+    iframe {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
     }
 }
 
