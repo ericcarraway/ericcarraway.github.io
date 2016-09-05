@@ -56,6 +56,12 @@ img {
   border-radius: 5px;
 }
 
+// center iframes by default
+iframe {
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
 table {
   margin-bottom: 1rem;
   width: 100%;
