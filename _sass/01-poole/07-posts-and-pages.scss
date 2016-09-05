@@ -39,8 +39,8 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
   margin-bottom: 2rem;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid $gray-0;
+  border-bottom: 1px solid $gray-0;
 }
 
 .related-posts {
@@ -58,7 +58,7 @@
     }
 
     a:hover {
-      color: #268bd2;
+      color: $link-color;
       text-decoration: none;
 
       small {

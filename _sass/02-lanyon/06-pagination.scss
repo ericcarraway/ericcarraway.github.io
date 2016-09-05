@@ -12,7 +12,7 @@
   margin-left: -1rem;
   margin-right: -1rem;
   font-family: $sans-serif-font-family;
-  color: #ccc;
+  color: $gray-2;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  border: 1px solid $gray-0;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;

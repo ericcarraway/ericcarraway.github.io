@@ -8,7 +8,7 @@
 .pagination {
   overflow: hidden; // clearfix
   margin: 0 -1.5rem 1rem;
-  color: #ccc;
+  color: $gray-2;
   text-align: center;
 }
 
@@ -16,7 +16,7 @@
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: solid #eee;
+  border: solid $gray-0;
   border-width: 1px 0;
 
   &:first-child {
