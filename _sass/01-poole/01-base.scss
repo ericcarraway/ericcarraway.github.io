@@ -52,8 +52,14 @@ a {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 0 auto 1rem auto; // horizontally center images by default
   border-radius: 5px;
+}
+
+// center iframes by default
+iframe {
+    margin: 0 auto 0 auto;
+    display: block;
 }
 
 table {

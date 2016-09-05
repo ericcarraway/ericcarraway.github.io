@@ -1,6 +1,13 @@
 /* build: pages/miscellany/2015-in-audiobooks/index.scss */
 div.year-in-audiobooks {
+    margin-top: 1.5rem; // distance between content and masthead
+
+    h1 {
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+
     img {
-        max-width: 80%;
+
     }
 }
