@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: default-lanyon
 title: Fitness
 permalink: /fitness/
 navbar: miscellany
 container_class: fitness
 ---
-# Fitness
+<h1 class="page-title">Fitness</h1>
 
 ```while (workingOut) { learn(newThings); }```
 

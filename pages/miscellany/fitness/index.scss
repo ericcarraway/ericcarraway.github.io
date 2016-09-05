@@ -1,14 +1,17 @@
 /* build: pages/miscellany/fitness/index.scss */
 div.fitness {
+    margin-top: 1.5rem; // distance between content and masthead
+
+    h1 {
+        text-align: center;
+    }
+
     p {
         text-align: center;
     }
+
+    // #TODO: consider img as background and text as overlay
     img {
-        margin-top: 28px;
-    }
-    p, li {
-        font-size: 2.2rem;
-        letter-spacing: 0.05rem;
-        line-height: 3.1rem;
+
     }
 }
