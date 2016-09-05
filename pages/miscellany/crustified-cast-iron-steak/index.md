@@ -1,16 +1,20 @@
 ---
-layout: default
+layout: default-lanyon
 title: Crustified Cast Iron Steak
 permalink: /crustified-cast-iron-steak/
 fitvids: false
 navbar: miscellany
 container_class: steak-recipe
 ---
-# Crustified Cast&nbsp;Iron&nbsp;Steak
-
-_Forget the grill - prepare the perfect steak by searing it on a cast iron skillet
-and baking it in an&nbsp;oven_
-![crustified-cast-iron-steak](../assets/steak-recipe/crustified-cast-iron-steak.jpg)
+<div class="steak-header">
+    <div class="text">
+        <h1 class="page-title">Crustified Cast&nbsp;Iron&nbsp;Steak</h1>
+        <p>
+            Forget the grill - prepare the perfect steak by searing it on a cast iron skillet
+            and baking it in an&nbsp;oven
+        </p>
+    </div>
+</div>
 
 <p class="photo-credit">Credit: Jason Younts</p>
 
