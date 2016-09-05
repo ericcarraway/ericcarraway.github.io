@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: default-lanyon
 title: Old Fashioned Recipe
 permalink: /old-fashioned-recipe/
 fitvids: false
 navbar: miscellany
 container_class: old-fashioned
 ---
-# Old Fashioned Cocktail&nbsp;Recipe
+<h1 class="page-title">Old Fashioned Cocktail&nbsp;Recipe</h1>
 
 ![old-fashioned-recipe](../assets/old-fashioned/message.png)
 
@@ -34,6 +34,8 @@ Since then, numerous friends have requested&nbsp;it.
 <hr>
 
 ### Pictures
+
+<!-- #TODO: responsiveness - import a grid system? -->
 
 #### Angostura Bitters
 ![Angostura Bitters](../assets/old-fashioned/angostura-bitters.jpg)

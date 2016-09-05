@@ -35,7 +35,7 @@
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  border-top: 1px solid $gray-0;
 }
 .related-posts {
   padding-left: 0;
@@ -49,7 +49,7 @@
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: $link-color;
   text-decoration: none;
 }
 .related-posts li a:hover small {

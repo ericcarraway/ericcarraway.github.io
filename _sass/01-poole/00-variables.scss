@@ -1,27 +1,49 @@
 /* build: _sass/01-poole/00-variables.scss */
 
-$gray-1: #f9f9f9;
-$gray-2: #ccc;
-$gray-3: #767676;
+$gray-0: #eeeeee;
+$gray-1: #f9f9f9; // very light gray (mostly white)
+$gray-2: #cccccc; // light gray
+$gray-3: #767676; // dark gray
 $gray-4: #515151;
-$gray-5: #313131;
+$gray-5: #313131; // very dark gray (mostly black)
 
-$red: #ac4142;
-$orange: #d28445;
-$yellow: #f4bf75;
-$green: #90a959;
-$cyan: #75b5aa;
-$blue: #268bd2;
-// $blue: #6a9fb5;
+$alizarin-crimson: #e74c3c; // bright red
+$theme-base-08-color: #ac4142; // dark moderate red
+$red: #ac4142; // .theme-base-08
+
+$orange: #d28445; // .theme-base-09
+$yellow: #f4bf75; // .theme-base-0a
+$green: #90a959; // .theme-base-0b
+$cyan: #75b5aa; // .theme-base-0c
+
+// rgb( 80, 187, 247)
+// hsl(202, 91%, 64%)
+$apple-messages-blue: #50bbf7; // soft blue
+
+$strong-blue: #268bd2;
+$blue: #6a9fb5; // .theme-base-0d
+
 $brown: #8f5536;
 
-$root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+// https://css-tricks.com/snippets/css/better-helvetica/
+$sans-serif-font-family:
+    Avenir, "proxima-nova",
+    "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica,
+    Arial, "Lucida Grande", sans-serif;
+
+// https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/#approach-b
+$root-font-family:
+    -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+
 $root-font-size: 16px;
 $root-line-height: 1.5;
 
-$body-color: #515151;
-$body-bg: #fff;
-$link-color: $blue;
+$body-color: $gray-4;
+$body-bg: white;
+$link-color: $strong-blue;
 
 $border-color: #e5e5e5;
 

@@ -1,25 +1,23 @@
 ---
 ---
-@import 'variables';
-@import 'typography';
-@import 'sticky-footer-navbar';
-@import 'images';
-@import 'navbar';
+@import "01-poole/00-variables";
+@import "typography";
+@import "sticky-footer-navbar";
+@import "images";
+@import "navbar";
 
-@import '../pages/code/recommended-tools/index';
+@import "../pages/code/recommended-tools/index";
 
-@import '../pages/miscellany/old-fashioned-recipe/index';
+@import "../pages/music/index";
+@import "../pages/music/blue-in-green/index";
+@import "../pages/music/blue-ocean-floor/index";
+@import "../pages/music/bobby-hutcherson-maiden-voyage/index";
+@import "../pages/music/dave-matthews-glassmen/index";
+@import "../pages/music/double-latte/index";
+@import "../pages/music/electronic-drums-cart/index";
+@import "../pages/music/let-go/index";
 
-@import '../pages/music/index';
-@import '../pages/music/blue-in-green/index';
-@import '../pages/music/blue-ocean-floor/index';
-@import '../pages/music/bobby-hutcherson-maiden-voyage/index';
-@import '../pages/music/dave-matthews-glassmen/index';
-@import '../pages/music/double-latte/index';
-@import '../pages/music/electronic-drums-cart/index';
-@import '../pages/music/let-go/index';
-
-@import '../pages/sitemap/index';
+@import "../pages/sitemap/index";
 
 // TODO: move naima
 // TODO: move triplet-diddle-game-of-thrones
