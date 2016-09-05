@@ -21,5 +21,5 @@ SOUNDCLOUD
 * iPhone Remix
 
 TIDY HTML5 FORMATTER
-* http://www.htacg.org/tidy-html5/
+* http://www.html-tidy.org/
 * `brew install tidy-html5`
