@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: default-lanyon
 title: Sitemap
 permalink: /sitemap/
 navbar: miscellany
 container_class: sitemap
 ---
-# Sitemap
+<h1 class="page-title">Sitemap</h1>
+
+<!-- #TODO: two-column responsive grid -->
 
 * Home
     * [/index](../)

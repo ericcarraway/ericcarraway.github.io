@@ -6,6 +6,9 @@ container_class: miscellany-page
 ---
 <h1 class="page-title">Miscellany</h1>
 
+<!-- #TODO: two-column responsive grid -->
+<!-- #TODO: add pictures -->
+
 * [Résumé](../assets/resume.pdf)
 * [2015 in Audiobooks](../2015-in-audiobooks/)
 * [Workday Percentage Clock](../workday-percentage-clock/)
