@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: default-lanyon
 title: Workday Percentage Clock
 permalink: /workday-percentage-clock/
 fitvids: false
 navbar: miscellany
 container_class: percentage-clock
 ---
-# Workday Percentage&nbsp;Clock
-
+<h1 class="page-title">Workday Percentage&nbsp;Clock</h1>
 One of the most difficult tasks in software engineering is the estimation of time.
 To increase my productivity and time-management skills, I created this
 alternative clock face.
