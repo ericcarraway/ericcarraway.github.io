@@ -1,4 +1,7 @@
-/*jshint browser:true */
+// #TODO do this with vanilla JS so I don't have to bring in Zepto
+// https://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js/
+
+/* jshint browser:true */
 /*!
 * FitVids 1.1
 *
