@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: default-lanyon
 title: Miscellany
 permalink: /miscellany/
 container_class: miscellany-page
 ---
-# Miscellany
+<h1 class="page-title">Miscellany</h1>
 
 * [Résumé](../assets/resume.pdf)
 * [2015 in Audiobooks](../2015-in-audiobooks/)
@@ -15,9 +15,7 @@ container_class: miscellany-page
 * [Crustified Cast Iron Steak](../crustified-cast-iron-steak/)
 * [Old Fashioned Cocktail Recipe](../old-fashioned-recipe/)
 
-<br>
 <hr>
 [Fitness](../fitness/)
-<br>
 <hr>
 [Sitemap](../sitemap/)
