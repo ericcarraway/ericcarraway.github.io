@@ -40,7 +40,8 @@ container_class: talks-page
     <a href="http://www.meetup.com/San-Antonio-JavaScript-User-Group/events/225255722/">Hill Country JavaScript Meetup</a>
   </h4>
   <p class="talks-date">Jul 20, 2016</p>
-  <br>
+  <script async class="speakerdeck-embed" data-id="c922b5008bde4a39a37c1d24a7355f24"
+    data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
   <hr>
 
 <!-- Pair-Programming at Rackspace -->
