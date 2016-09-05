@@ -1,4 +1,8 @@
 /* build: pages/miscellany/index.scss */
 div.miscellany-page {
-    margin-top: 3rem; // distance between content and masthead
+    margin-top: 1.5rem; // distance between content and masthead
+
+    h1 {
+        text-align: center;
+    }
 }

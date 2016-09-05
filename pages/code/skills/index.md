@@ -9,6 +9,8 @@ container_class: skills-page
 
 ## Technical Skills
 
+<!-- #TODO: two-column responsive grid -->
+
 #### Front End
 
 * JavaScript

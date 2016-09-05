@@ -1,6 +1,10 @@
 /* build: pages/miscellany/workday-percentage-clock/index.scss */
 div.percentage-clock {
-    margin-top: 3rem; // distance between content and masthead
+    margin-top: 1.5rem; // distance between content and masthead
+
+    h1 {
+        text-align: center;
+    }
 
     img {
 

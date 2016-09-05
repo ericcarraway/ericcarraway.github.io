@@ -1,12 +1,8 @@
 /* build: pages/sitemap/index.scss */
 div.sitemap {
-    ul {
-        font-size: 2.2rem;
-        letter-spacing: 0.05rem;
-        line-height: 3.4rem;
-    }
-    p {
-        font-size: 20px;
-        line-height: 30px;
+    margin-top: 1.5rem; // distance between content and masthead
+
+    h1 {
+        text-align: center;
     }
 }
