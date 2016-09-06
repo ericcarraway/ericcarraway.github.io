@@ -6,7 +6,9 @@ fitvids: true
 container_class: code-page
 ---
 <h1 class="page-title">Code</h1>
+
 #### Testing "Rock Paper Scissors" in JavaScript with Mocha + Chai
+
 _Jul 10, 2016_
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ILB_pRFHjNU?rel=0"
         frameborder="0" allowfullscreen></iframe>
