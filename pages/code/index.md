@@ -48,3 +48,4 @@ Notation and transport controls are handled by the Soundslice web app.
 <hr>
 * [Recommended Tools](../recommended-tools/)
 * [Skills](../skills/)
+* [GitHub](https://github.com/ericcarraway)
