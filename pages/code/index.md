@@ -6,8 +6,10 @@ fitvids: true
 container_class: code-page
 ---
 <h1 class="page-title">Code</h1>
-
-* [Skills](../skills/)
+#### Testing "Rock Paper Scissors" in JavaScript with Mocha + Chai
+_Jul 10, 2016_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ILB_pRFHjNU?rel=0"
+        frameborder="0" allowfullscreen></iframe>
 
 ### Projects
 
@@ -16,9 +18,9 @@ container_class: code-page
 * [http://typo-hunter.com/](http://typo-hunter.com/)
 * [http://banddraft.co/](http://banddraft.co/)
 * [http://larson-carraway.com/](http://larson-carraway.com/)
-* [http://winterguardaudioediting.com/](http://winterguardaudioediting.com/)
 * [CodingBat Problems in JavaScript](../codingbat-js/)
-* [http://codingbootcampsurvival.com/](http://codingbootcampsurvival.com/)
+<!-- * [http://codingbootcampsurvival.com/](http://codingbootcampsurvival.com/) -->
+* [http://winterguardaudioediting.com/](http://winterguardaudioediting.com/)
 
 <hr>
 
@@ -43,3 +45,4 @@ Notation and transport controls are handled by the Soundslice web app.
 
 <hr>
 * [Recommended Tools](../recommended-tools/)
+* [Skills](../skills/)
