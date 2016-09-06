@@ -1,8 +1,22 @@
 ---
 layout: default
 title: Home
+fitvids: true
 ---
-<h1 style="visibility:hidden">Home</h1>
+<h1 style="visibility:hidden;margin:0">Home</h1>
+
+## Toyota of Killeen Multi-Point Inspection&nbsp;App
+_September 13, 2015_
+
+I built an app for the service department of a local car dealership.
+It allows auto mechanics use inexpensive Android tablets to enter inspection records
+directly from their service bays.
+
+See a demo here: <a href="http://carraway.me/toyota">http://carraway.me/toyota</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PkW__yhdMjY?rel=0"
+        frameborder="0" allowfullscreen>
+</iframe>
+<hr>
 
 ## StrengthsFinder Results
 _June 14, 2016_
@@ -18,21 +32,23 @@ I was inspired to take the assessment. Here are my results:
   <li>Achiever</li>
   <li>Maximizer</li>
 </ol>
-<img src="../assets/five-strengths/five-strengths-750.png"
-     style="max-width:500px"
-     alt="Top Five Strengths">
-
+<div class="row">
+  <img src="../assets/five-strengths/five-strengths-750.png"
+       style="width:375px;max-width:90%"
+       alt="Top Five Strengths">
+</div>
 <hr>
 
-## 1,000 GitHub commits in the last year
+## 1,000 GitHub commits in the last&nbsp;year
 _June 12, 2016_
 
 Today, I pushed my 1,000<sup>th</sup> commit to
-<a href="https://github.com/ericcarraway">GitHub</a> in the last year.
-<img src="../assets/img/1000-commits.jpg"
-     style="max-width:500px"
-     alt="1000 GitHub commits">
-
+<a href="https://github.com/ericcarraway">GitHub</a> in the last&nbsp;year.
+<div class="row">
+  <img src="../assets/img/1000-commits.jpg"
+       style="width:375px;max-width:90%"
+       alt="1000 GitHub commits">
+</div>
 <hr>
 
 ## Introducing BandDraft
@@ -57,38 +73,21 @@ https://www.facebook.com/banddraftgames/</a>
     <img src="../assets/banddraft/banddraft-3.jpg" alt="BandDraft-3">
   </div>
 </div>
-
 <hr>
 
-## Toyota of Killeen Multi-Point Inspection App
-_September 13, 2015_
-
-I built an app for the service department of a local car dealership.
-It allows auto mechanics use inexpensive Android tablets to enter inspection records
-directly from their service bays.
-
-See a demo here: <a href="http://carraway.me/toyota">http://carraway.me/toyota</a>
-<img src="../assets/toyota-mpi/toyota-mpi-1.png"
-     style="max-width:500px"
-     alt="Toyota Multi-Point Inspection 1">
-
-<hr>
-
-## Beast of Burden (Keyboard Percussion)
+## Beast of Burden <small>Keyboard&nbsp;Percussion</small>
 _September 22, 2011_
 
 "Beast of Burden" by the Rolling Stones arranged for marimba, vibraphone, bells, and percussion.
 Arranged and performed by Eric Carraway.
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no"
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23887807&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true">
-</iframe>
-<!-- #TODO: update this dynamically via the SoundCloud API -->
-_726 plays since Sep 22, 2011_
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23887807&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+<!-- #TODO: update this dynamically via the SoundCloud API -->
+<!-- _730 plays since Sep 22, 2011_ -->
 <hr>
 
-## 5points Percussion - Website Project
+## 5points Percussion <small>Website&nbsp;Project</small>
 _December 5, 2015_
 
 **5points** is a _WGI Independent Open World Finalist_ percussion ensemble based in San Antonio.
@@ -100,7 +99,7 @@ View the website -
 \- built with **Jekyll**, a static site generator written in **Ruby**.
 
 Keep up with our current activity on our
-<a href="https://www.facebook.com/5points-1625994204338697/">
+<a href="https://www.facebook.com/5pointspercussion/">
 Facebook page</a>.
 <div class="row">
   <div class="col-xs-6">
