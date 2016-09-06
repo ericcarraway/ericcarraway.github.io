@@ -30,6 +30,7 @@ When I'm not writing code, I enjoy spending time with my beautiful wife Katie.
 
 ericcarraway.com has been my online home since&nbsp;2005<br>
 Here are some details about its current iteration:
+
 * Hand-coded in Atom
 * Built on Jekyll, the open source static site generator
 * [Version-controlled at GitHub](https://github.com/ericcarraway/ericcarraway.github.io) and hosted on GitHub Pages
