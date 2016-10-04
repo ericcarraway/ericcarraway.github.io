@@ -16,4 +16,12 @@ Miles Davis' 1959 album _Kind of Blue_<br><br>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/OnOcaVaCQGc?rel=0"
         frameborder="0" allowfullscreen>
 </iframe>
-<p id="yt-views">625 views</p>
+<p id="yt-views">629 views</p>
+
+## Sheet Music Downloads
+* [blue-in-green-0-score.pdf](../pages/music/blue-in-green/blue-in-green-0-score.pdf)
+* [blue-in-green-1-glock-timp.pdf](../pages/music/blue-in-green/blue-in-green-1-glock-timp.pdf)
+* [blue-in-green-2-front-vibes-outer-marim.pdf](../pages/music/blue-in-green/blue-in-green-2-front-vibes-outer-marim.pdf)
+* [blue-in-green-3-back-vibes.pdf](../pages/music/blue-in-green/blue-in-green-3-back-vibes.pdf)
+* [blue-in-green-4-inner-marim.pdf](../pages/music/blue-in-green/blue-in-green-4-inner-marim.pdf)
+* [blue-in-green-5-piano.pdf](../pages/music/blue-in-green/blue-in-green-5-piano.pdf)
