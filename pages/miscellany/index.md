@@ -9,7 +9,7 @@ container_class: miscellany-page
 <!-- #TODO: two-column responsive grid -->
 <!-- #TODO: add pictures -->
 
-* [Résumé](../assets/resume.pdf)
+* [Résumé](../resume/)
 * [2015 in Audiobooks](../2015-in-audiobooks/)
 * [Workday Percentage Clock](../workday-percentage-clock/)
 <br>
