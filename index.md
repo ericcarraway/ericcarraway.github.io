@@ -5,6 +5,24 @@ fitvids: true
 ---
 <h1 style="visibility:hidden;margin:0">Home</h1>
 
+
+## Introducing percuss.io
+_February 26, 2017_
+
+I'm using Soundslice for percussion. <a href="https://percuss.io">Check it out!</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I5YKa7QdsDY?rel=0"
+        frameborder="0" allowfullscreen>
+</iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Y9-kq2xKoI?rel=0"
+        frameborder="0" allowfullscreen>
+</iframe>
+
+<hr>
+
 ## Toyota of Killeen Multi-Point Inspection&nbsp;App
 _September 13, 2015_
 
