@@ -9,6 +9,6 @@
     "url": "https://github.com/ericcarraway/ericcarraway.github.io"
   },
   "devDependencies": {
-    "selenium-webdriver": "^2.44.0"
+    "selenium-webdriver": "^2.53.3"
   }
 }
